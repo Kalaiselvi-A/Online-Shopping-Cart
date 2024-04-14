@@ -19,7 +19,7 @@
     </select>
     <input type="text" name="answer" placeholder="Enter answer" required="required">
     <input type="password" name="password" placeholder="Enter Password">
-    <input type="submit" value="signup">
+    <input type="submit" value="SignUp">
     </form>
       <h2><a href="login.jsp">Login</a></h2>
   </div>
