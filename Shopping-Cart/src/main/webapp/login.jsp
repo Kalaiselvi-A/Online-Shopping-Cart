@@ -11,10 +11,10 @@
      <form action="loginAction.jsp" method="post">
      <input type="email" name="email" placeholder="Enter Email" required="required">
      <input type="password" name="password" placeholder="Enter Password" required="required">
-     <input type="submit" value="login">
+     <input type="submit" value="Login">
      </form>
       <h2><a href="signup.jsp">SignUp</a></h2>
-       <h2><a href="forgetPassword.jsp">Forgot Password?</a></h2>
+       <h2><a href="forgotPassword.jsp">Forgot Password?</a></h2>
   </div>
   <div class='whysignLogin'>
   
